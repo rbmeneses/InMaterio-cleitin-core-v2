@@ -97,7 +97,7 @@ Para evitar que a rede entre em colapso ou crie delírios sem base na realidade 
 ## 🔌 4. Engenharia de Hardware e Esquemático Pino a Pino (Cleitin Core v2.0)
 
 ### 4.1. Diagrama Geral de Blocos
-
+(https://rbmeneses.github.io/InMaterio-cleitin-core-v2/)
 ```text
 [ HOST PC: LLM Local (Ollama) + Orquestrador FastAPI + SQLite WAL + Painel HTML ]
                                        ▲
